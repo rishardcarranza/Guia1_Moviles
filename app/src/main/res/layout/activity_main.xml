@@ -157,7 +157,8 @@
         <LinearLayout
             android:id="@+id/linearCero"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp">
             <Button
                 android:id="@+id/btn0"
                 android:text="0"
